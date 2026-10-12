@@ -1,0 +1,4 @@
+message_id,original_category,original_urgency,validation_issues,review_status,safe_to_auto_route
+ESG001,Water Waste,High,Invalid team format or value; High urgency without follow-up; High urgency without escalation,Human Review,False
+ESG002,Water Waste,High,Invalid team format or value; High urgency without follow-up; High urgency without escalation,Human Review,False
+ESG003,Accessibility,High,Invalid team format or value; High urgency without follow-up; High urgency without escalation,Human Review,False

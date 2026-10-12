@@ -1,0 +1,4 @@
+issue_category,urgency,sentiment,follow_up_required,recommended_team,escalation_required,reason,message_id,json_valid
+Water Waste,High,Negative,False,['Facility and Maintenance Team'],False,Immediate safety risk due to water spread,ESG001,True
+Water Waste,High,Negative,False,['Facility and Maintenance Team'],False,"This issue is causing contamination of recyclable materials, which could lead to environmental hazards.",ESG002,True
+Accessibility,High,Negative,False,['Accessibility and Facilities Team'],False,Employees and visitors with mobility difficulties cannot access the building safely due to the wheelchair-accessible entrance being blocked.,ESG003,True

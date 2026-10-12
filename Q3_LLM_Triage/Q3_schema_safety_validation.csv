@@ -1,0 +1,4 @@
+message_id,json_valid,schema_valid,safety_consistent
+ESG001,True,False,False
+ESG002,True,False,False
+ESG003,True,False,False

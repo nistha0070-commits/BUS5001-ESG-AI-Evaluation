@@ -1,0 +1,4 @@
+message_id,issue_category,urgency,sentiment,follow_up_required,recommended_team
+ESG001,Water Waste,High,Negative,True,Facilities and Maintenance Team
+ESG002,Waste Management,Medium,Negative,True,Sustainability Team
+ESG003,Accessibility,High,Negative,True,Accessibility and Facilities Team

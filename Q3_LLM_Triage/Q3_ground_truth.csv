@@ -1,0 +1,4 @@
+message_id,issue_category,urgency,follow_up_required
+ESG001,Water Waste,High,True
+ESG002,Waste Management,Medium,True
+ESG003,Accessibility,High,True
