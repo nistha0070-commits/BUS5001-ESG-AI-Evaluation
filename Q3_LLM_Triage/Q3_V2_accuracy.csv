@@ -1,0 +1,4 @@
+Metric,Rule-Based Accuracy (%),LLM Accuracy (%)
+issue_category,100.0,33.33
+urgency,100.0,33.33
+followup_required,100.0,100.0

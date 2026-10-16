@@ -1,0 +1,31 @@
+issue_category_baseline,urgency_baseline,followup_required_baseline,recommended_team_baseline,message_id,issue_category_llm,urgency_llm,sentiment,followup_required_llm,recommended_team_llm,escalation_reason,data_sensitivity_risk,brief_summary,json_valid,raw_output
+Water Waste,CRITICAL,Y,Facilities and Maintenance Team,ESG001,Water Leak,MEDIUM,NEGATIVE,Y,Sustainability Team,Recurring issue requiring immediate attention,HIGH,"Major water leak detected near electrical equipment, causing potential injury to people.",True,"{
+  ""issue_category"": ""Water Leak"",
+  ""urgency"": ""MEDIUM"",
+  ""sentiment"": ""NEGATIVE"",
+  ""followup_required"": ""Y"",
+  ""recommended_team"": ""Sustainability Team"",
+  ""escalation_reason"": ""Recurring issue requiring immediate attention"",
+  ""data_sensitivity_risk"": ""HIGH"",
+  ""brief_summary"": ""Major water leak detected near electrical equipment, causing potential injury to people.""
+}"
+Waste Management,MEDIUM,Y,Sustainability Team,ESG002,Water Waste,MEDIUM,NEGATIVE,Y,Sustainability Team,Recurrent Recycling Issue,LOW,Recycling bins are overflowing due to mixing of recyclables with general waste.,True,"{
+  ""issue_category"": ""Water Waste"",
+  ""urgency"": ""MEDIUM"",
+  ""sentiment"": ""NEGATIVE"",
+  ""followup_required"": ""Y"",
+  ""recommended_team"": ""Sustainability Team"",
+  ""escalation_reason"": ""Recurrent Recycling Issue"",
+  ""data_sensitivity_risk"": ""LOW"",
+  ""brief_summary"": ""Recycling bins are overflowing due to mixing of recyclables with general waste.""
+}"
+Accessibility,HIGH,Y,Accessibility and Facilities Team,ESG003,Accessibility,MEDIUM,NEGATIVE,Y,Sustainability Team,Requiring immediate action to ensure all employees and visitors can enter the building safely.,HIGH,"Wheelchair-accessible entrance blocked, requiring immediate action.",True,"{
+  ""issue_category"": ""Accessibility"",
+  ""urgency"": ""MEDIUM"",
+  ""sentiment"": ""NEGATIVE"",
+  ""followup_required"": ""Y"",
+  ""recommended_team"": ""Sustainability Team"",
+  ""escalation_reason"": ""Requiring immediate action to ensure all employees and visitors can enter the building safely."",
+  ""data_sensitivity_risk"": ""HIGH"",
+  ""brief_summary"": ""Wheelchair-accessible entrance blocked, requiring immediate action.""
+}"

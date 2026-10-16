@@ -1,0 +1,4 @@
+message_id,json_valid,schema_valid,safety_consistent,review_status
+ESG001,True,False,True,Human Review
+ESG002,True,True,True,Passed
+ESG003,True,True,True,Passed
